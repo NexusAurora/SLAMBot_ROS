@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "src/lidar_navigation/lidar_navigation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
